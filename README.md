@@ -154,7 +154,7 @@ streamlit run app.py
 **Sarvesh** · MS Bioinformatics, Northeastern University  
 Bridging pharmaceutical sciences and computational drug discovery
 
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR__USERNAME-181717?style=flat&logo=github)](https://github.com/Sorra-22)
+[![GitHub](https://img.shields.io/badge/GitHub-Sorra-22-181717?style=flat&logo=github)](https://github.com/Sorra-22)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](www.linkedin.com/in/sarveshsunilkurup)
 
 ---
